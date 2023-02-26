@@ -15,10 +15,10 @@ Export your drawing as a PNG image
 <video src = "https://user-images.githubusercontent.com/119485192/221394035-5f17183b-a7a3-4abe-a529-2d46697127d2.mp4" /><br>
 
 
-Usage
+Usage <br>
 You can try JS Paint online at https://paintbynic.netlify.app/ or download the source code and run it on your local machine.
 
-To run JS Paint locally, follow these steps:
+To run JS Paint locally, follow these steps: <br>
 Clone the repository: git clone https://github.com/your-username/js-paint.git
 Open index.html in your web browser
 Start drawing!
