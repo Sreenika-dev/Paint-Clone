@@ -1,5 +1,5 @@
 # Paint-Clone
-JS Paint is a web-based painting application inspired by Microsoft Paint. It allows you to draw with brushes, colors, and line thicknesses on a canvas
+My Paint is a web-based painting application inspired by Microsoft Paint. It allows you to draw with brushes, colors, and line thicknesses on a canvas
 
 
 
